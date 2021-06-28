@@ -18,7 +18,7 @@
 - based on our analysis, the worst month to launch your kickstarter is December 
 - 
 ### Analysis of Outcomes Based on Goals
-![Theater_Outcomes_vs_Launch](C:\Users\soren\OneDrive\Desktop\Module 1\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/Bionicbabes/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 - based on our analysis, kickstarters that had a goal of between 40,000 and 49,999 were funded 100% of the time.  Although this data maybe a little misleading with only 4 kickstarters being funded.  Kickstarters with a goal between 15,000 and 25,000 had a success rate of 94% with over 93 projects being successful.
 ### Challenges and Difficulties Encountered
 
